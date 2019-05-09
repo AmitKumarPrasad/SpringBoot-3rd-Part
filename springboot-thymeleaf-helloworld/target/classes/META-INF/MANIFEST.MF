@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: thymeleaf-helloworld
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Amit
+Implementation-Vendor-Id: com.hellokoding.springboot
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/thymeleaf-helloworld
+Created-By: Maven Integration for Eclipse
+

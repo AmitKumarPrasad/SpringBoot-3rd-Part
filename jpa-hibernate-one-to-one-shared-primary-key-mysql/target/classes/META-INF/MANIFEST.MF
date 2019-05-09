@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: jpa-hibernate-one-to-one-shared-primary-key-mysq
+ l
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: Amit
+Implementation-Vendor-Id: com.hellokoding.jpa
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/jpa-hibernate-one-to-one-shared-primary-key-mysql
+Created-By: Maven Integration for Eclipse
+
